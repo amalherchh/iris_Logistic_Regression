@@ -6,6 +6,7 @@ This lab focuses on implementing Logistic Regression from scratch using NumPy an
 
 **Dataset:** [Iris Dataset – Kaggle](https://www.kaggle.com/datasets/uciml/iris)
 
+
 ## 1. Binary Logistic Regression
 
 The first part uses two Iris species:
